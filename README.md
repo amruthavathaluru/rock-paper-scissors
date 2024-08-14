@@ -8,8 +8,8 @@ Rock, Paper, Scissors Game: Play the classic game against the computer.
 **Play Again Option:** Option to play the game multiple times without restarting the program.
 
 # Prerequisites
-**>>>**Python 3.x must be installed on your system.
-**>>>**Tkinter library (included with Python) for the GUI.
+**>>>** Python 3.x must be installed on your system.
+**>>>** Tkinter library (included with Python) for the GUI.
 # How to Play
 
 **Start the Game:**
